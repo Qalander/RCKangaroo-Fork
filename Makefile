@@ -1,4 +1,4 @@
-CC := g++-
+CC := g++-11
 NVCC := nvcc
 CUDA_PATH ?= /usr/local/cuda
 
